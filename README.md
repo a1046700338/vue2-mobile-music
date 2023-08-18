@@ -1,4 +1,5 @@
-# music-chapter
+# vue2-mobile-music
+vue2小项目实践-移动端布局  
 网易云音乐项目实战  
 基于vue2
 ## 技术架构
@@ -28,10 +29,10 @@ npm run lint
 ```
 
 ### 加入了git commit规范
-[github](https://github.com/ITxiaohao/conventional-changelog-custom-config)
+[link](https://github.com/ITxiaohao/conventional-changelog-custom-config)
 
 ### 如何使用它
-生成 CHANGELOG 之前得先 commit，记得在 master 主分支上发布版本，再生成 CHANGELOG，流程如下：
+生成 CHANGELOG 之前得先 commit，记得在 main 主分支上发布版本，再生成 CHANGELOG，流程如下：
 ```
 git add .
 
